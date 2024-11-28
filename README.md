@@ -9,3 +9,5 @@ Tokio and Rust Async
 > [Tutorial](https://tokio.rs/tokio/tutorial)
 
 'cargo install mini-redis'
+
+'mini-redis-server &'
